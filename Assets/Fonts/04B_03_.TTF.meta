@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bf83331c8547eb547b9e45140bf47097
+timeCreated: 1540585840
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 04b03
+  fontNames:
+  - 04b03
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
